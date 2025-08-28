@@ -27,4 +27,5 @@ const perguntas = [
     }
     {enunciado:
         "A IA impactará o mercado de trabalho nos proximos 10 anos?"
-        alternativas: ["Sim","Não"],}
+        alternativas: ["Sim","Não"],
+    }
