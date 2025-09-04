@@ -48,13 +48,4 @@ const perguntas = [
     }
 
     mostraPergunta();
-
-
-
-
-
-
-
-
-
-    }
+    
